@@ -1,0 +1,18 @@
+Wikimedia is a global movement whose mission is to bring free educational content to the world.
+
+Through various projects, chapters, and the support structure of the non-profit Wikimedia Foundation, Wikimedia strives to bring about a world in which every single human being can freely share in the sum of all knowledge.
+
+Welcome to Wikimedia.
+
+
+Imagine a world in which every single human being can freely share in the sum of all knowledge. That’s our commitment.
+
+LINKS
+
+“movement” = https://meta.wikimedia.org/wiki/Wikimedia_movement
+“mission” = https://wikimediafoundation.org/wiki/Mission_statement
+“projects” = https://wikimediafoundation.org/wiki/Our_projects
+“chapters” = https://meta.wikimedia.org/wiki/Wikimedia_chapters
+“strives” = https://wikimediafoundation.org/wiki/Vision
+Terms of Use = https://wikimediafoundation.org/wiki/Terms_of_Use
+Privacy Policy = https://wikimediafoundation.org/wiki/Privacy_policy
